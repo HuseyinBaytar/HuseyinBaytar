@@ -11,7 +11,9 @@ I am a curious individual with a relentless passion for data science and MLOps. 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
-<img alt="Night Coding" src="https://github.com/HuseyinBaytar/HuseyinBaytar/assets/143644391/78e78df8-cdaf-4f0c-aea0-307552f79c16" width="400px" align="right"/>
+<img alt="Coding" src="https://github.com/HuseyinBaytar/HuseyinBaytar/assets/143644391/4e33f617-df2d-48b1-b22d-2f01ffe918c8" width="400px" align="right"/>
+
+
 
 
 <h3>🛠 &nbsp;Tech Stack</h3>
