@@ -54,8 +54,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/huseyinbaytar">
-  <img height="95em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huseyinbaytar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="95em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinbaytar&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huseyinbaytar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinbaytar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
