@@ -17,8 +17,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3)&nbsp;
 <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp;
@@ -54,8 +52,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/huseyinbaytar">
-  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huseyinbaytar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinbaytar&layout=compact&langs_count=8&theme=algolia"/>
+  <img witdh="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huseyinbaytar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img witdh="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinbaytar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
