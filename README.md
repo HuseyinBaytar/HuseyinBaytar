@@ -48,7 +48,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3>📚 &nbsp;Education</h3>
 
-- Computer Engineering at Karadeniz Technical University.
 - Data Science & Machine Learning Bootcamp Participant at Miuul.
 
 
