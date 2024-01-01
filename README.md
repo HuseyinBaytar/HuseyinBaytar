@@ -21,6 +21,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
@@ -37,8 +38,10 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat-square&logo=apachespark)&nbsp;
 <br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&logoColor=white)&nbsp;
+
 
 <h3>📈 &nbsp;Projects</h3>
 
