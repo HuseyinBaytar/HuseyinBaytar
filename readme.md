@@ -36,6 +36,7 @@ various data types across different domains, with a particular affinity for comp
 
 
 <h3>📈 &nbsp;Projects</h3>
+
 - In this project we developed a fully automated system which generates questions and answers from various multimedia inputs—including PDF, DOCX, PPTX, EPUB, ENEX (evernote), TXT, MP3, MP4, MPEG4, PNG, JPG, JPEG, URLs, YouTube, Spotify, Wikipedia, and direct text input. Users can interact with the interface to answer questions and receive detailed performance feedback with suggestions for improvement. https://github.com/HuseyinBaytar/Digi-Did-I-Get-It-MultiModel-LLM-Projects
 
 - Created an application that allows users to describe images using their voice, converting the audio input into text with the OpenAI Whisper-1 model, and then generating an image from that text using the DALL-E model. Users can also obtain descriptions of their generated images via GeminiAI. https://github.com/HuseyinBaytar/VisionOfVoice
